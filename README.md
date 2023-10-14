@@ -14,8 +14,8 @@ To create your own database image - go to *docker* folder and run command:  ```d
 In order to connect app to your datasource - go to *application.properties* file and paste your database credentials
 ```
 spring.datasource.url=jdbc:postgresql://localhost:7432/olx_database
-spring.datasource.username=olx_user
-spring.datasource.password=AhSYYiJpjPAqqFb1jtShHPIbbjI9tsbgOoVDixdYXdNQZCC1zMa++A==
+spring.datasource.username=<username>
+spring.datasource.password=<password>
 ```
 
 ## Authors
